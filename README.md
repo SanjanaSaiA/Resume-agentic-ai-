@@ -278,11 +278,7 @@ python -m app.db.init_db
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
 
-**Pulagam Teja Swaroop Reddy**
-- GitHub: [@swaroopreddy07](https://github.com/swaroopreddy07)
-- LinkedIn: [TejaSwaroopReddy](https://www.linkedin.com/in/TejaSwaroopReddy)
 
 ## 🙏 Acknowledgments
 
